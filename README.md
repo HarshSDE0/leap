@@ -13,9 +13,7 @@ class Main {
 public static void utility(int y){
     String isLeap = "False";
 
-    //Your code below
-    //Assign True or False to isLeap
-    //User function Template for Java
+    
 
 public static void utility(int y){
     String isLeap = "False";
@@ -28,26 +26,13 @@ public static void utility(int y){
         
     }
    
-
-
-
-    
-    
-    //Your code below
-    //Assign True or False to isLeap
-    
-    //Your code above
-    
-    //The line below prints the output
     System.out.println(isLeap);
 }
-    //Your code above
     
-    //The line below prints the output
     System.out.println(isLeap);
 }
 
-//{ Driver Code Starts.
+
 
     public static void main(String[] args)
     {
@@ -60,4 +45,4 @@ public static void utility(int y){
         scn.close();
     }
 }
-// } Driver Code Ends
+
